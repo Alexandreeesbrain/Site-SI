@@ -5,3 +5,22 @@ body{
 h1{
   color: #FFF;
 }
+
+.txt{
+  color:#e6f700;
+  font-size: 18px;
+}
+
+img{
+  height:30%;
+  width:30%;
+}
+
+.dir{
+  float: right;
+  margin: 15px;
+}
+
+.clear{
+  clear: both;
+}
